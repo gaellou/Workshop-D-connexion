@@ -128,7 +128,7 @@
         }
 
 p, a {
-  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+  text-shadow: 0 0 8px rgba(150, 255, 150, 0.3);
   font-family: Courier, monospace;
   font-smoothing: antialiased;
   margin : auto;
@@ -137,7 +137,7 @@ p, a {
 }
 
 h1{
-  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+  text-shadow: 0 0 8px rgba(150, 255, 150, 0.3);
   text-align: center;
   font-family: Courier, monospace;
   align-content: center;
@@ -147,7 +147,7 @@ h1{
   color : #B95;
 }
 h2{
-  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+  text-shadow: 0 0 8px rgba(150, 255, 150, 0.3);
   text-align: center;
   font-family: Courier, monospace;
   align-content: center;
