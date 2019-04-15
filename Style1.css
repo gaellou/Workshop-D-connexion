@@ -135,3 +135,13 @@ p, a {
   font-size: 18px;
   color: #B95;
 }
+
+#TxtCorpus{
+  text-align: center;
+  font-family: Courier, monospace;
+  align-content: center;
+  width : 70%;
+  margin : auto;
+  font-size: 30px;
+  color : #B95;
+}

@@ -128,6 +128,17 @@
             width: 100px;
         }
 
+h1{
+	text-align: center;
+	font-family: Courier, monospace;
+	font-size : 70px;
+	color : #B95;
+	align-content: center;
+	width : 70%;
+	margin : auto;
+	margin-bottom: 40px
+}
+
 p, a {
   text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
   font-family: Courier, monospace;
