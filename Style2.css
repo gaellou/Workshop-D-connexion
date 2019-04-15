@@ -5,7 +5,8 @@
 
 /** BEGIN CSS **/
         body {background: #333333;
-        	align-content: center;}
+        	align-content: center;
+        	font-family: Arial;}
         @keyframes rotate-loading {
             0%  {transform: rotate(0deg);-ms-transform: rotate(0deg); -webkit-transform: rotate(0deg); -o-transform: rotate(0deg); -moz-transform: rotate(0deg);}
             100% {transform: rotate(360deg);-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -moz-transform: rotate(360deg);}
@@ -135,10 +136,18 @@ p, a {
   font-size: 15px;
   color: #B95;
 }
+div{  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+  font-family: Courier, monospace;
+  font-smoothing: antialiased;
+  margin : auto;
+  font-size: 15px;
+  color: #ffffff;}
 
 .Text{color: #ffffff;
+	font-family: Helvetica Neue;
 }
 #TxtCorpus{
+	font-family: Courier, monospace;
 	align-content: center;
 	width : 70%;
 	margin : auto;
@@ -146,3 +155,13 @@ p, a {
 img{ margin-left: 30%;
 	width : 35%;
 }
+
+#citation{
+	text-align: center;
+	text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+  font-family: Courier, monospace;
+  font-smoothing: antialiased;
+  font-style: italic;
+  margin : auto;
+  font-size: 30px;
+  color: #ffffff;}}
