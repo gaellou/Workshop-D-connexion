@@ -174,7 +174,7 @@ opacity: 0.8;
 
 #citation{
 	text-align: center;
-	text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+	text-shadow: 0 0 8px rgba(0, 0, 255, 0.5);
   font-family: Courier, monospace;
   font-smoothing: antialiased;
   font-style: italic;
@@ -182,4 +182,4 @@ opacity: 0.8;
   font-size: 30px;
   color: #ffffff;}
  #animate{
-  	text-shadow: 0 0 35px rgba(255, 0, 0, 0.95)}
+  	text-shadow: 0 0 35px rgba(255, 0, 0, 1)}
