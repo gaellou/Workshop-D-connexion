@@ -188,3 +188,11 @@ opacity: 0.8;
   color: #ffffff;}
  #animate{
   	text-shadow: 0 0 35px rgba(255, 0, 0, 1)}
+
+#animate_Warning{ margin-top: 2px;
+  	text-shadow: 0 0 35px rgba(255, 0, 0, 1)
+  	font-family : Arial;
+  	color : red;}
+
+
+
