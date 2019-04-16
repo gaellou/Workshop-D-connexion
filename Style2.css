@@ -155,7 +155,7 @@ p, a {
 div{  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
   font-family: Courier, monospace;
   font-smoothing: antialiased;
-  margin : auto;
+  margin : 8px;
   font-size: 15px;
   color: #ffffff;}
 
