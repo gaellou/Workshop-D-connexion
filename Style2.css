@@ -195,13 +195,15 @@ opacity: 0.8;
 #animate_Warning{ margin-top: 0px;
   	text-shadow: 0 0 35px rgba(255, 0, 0, 1)
   	font-family : Arial;
-  	color : #AA1212;}
+  	color : #AA1212;
+  	background-color: black;}
+
 
 #loading-text_Warning {
-            -moz-animation: loading-text-opacity 2s linear 0s infinite normal;
-            -o-animation: loading-text-opacity 2s linear 0s infinite normal;
-            -webkit-animation: loading-text-opacity 2s linear 0s infinite normal;
-            animation: loading-text-opacity 2s linear 0s infinite normal;
+            -moz-animation: loading-text-opacity 6s linear 1s infinite normal;
+            -o-animation: loading-text-opacity 6s linear 1s infinite normal;
+            -webkit-animation: loading-text-opacity 6s linear 1s infinite normal;
+            animation: loading-text-opacity 6s linear 1s infinite normal;
             color: #ffffff;
             font-family: "Helvetica Neue, "Helvetica", ""arial";
             font-size: 9px;
@@ -212,7 +214,7 @@ opacity: 0.8;
             text-align: center;
             text-transform: uppercase;
             top: 0;
-            width: 100px;
+            width: 150px;
         }
 
 #count{margin-bottom: none;}
