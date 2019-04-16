@@ -192,10 +192,28 @@ opacity: 0.8;
  #animate{
   	text-shadow: 0 0 35px rgba(255, 0, 0, 1)}
 
-#animate_Warning{ margin-top: 2px;
+#animate_Warning{ margin-top: 0px;
   	text-shadow: 0 0 35px rgba(255, 0, 0, 1)
   	font-family : Arial;
-  	color : red;}
+  	color : #AA1212;}
 
+#loading-text_Warning {
+            -moz-animation: loading-text-opacity 2s linear 0s infinite normal;
+            -o-animation: loading-text-opacity 2s linear 0s infinite normal;
+            -webkit-animation: loading-text-opacity 2s linear 0s infinite normal;
+            animation: loading-text-opacity 2s linear 0s infinite normal;
+            color: #ffffff;
+            font-family: "Helvetica Neue, "Helvetica", ""arial";
+            font-size: 9px;
+            font-weight: bold;
+            margin-top: 0px;
+            opacity: 0;
+            position: absolute;
+            text-align: center;
+            text-transform: uppercase;
+            top: 0;
+            width: 100px;
+        }
 
+#count{margin-bottom: none;}
 
