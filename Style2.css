@@ -156,6 +156,8 @@ div{  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
   font-family: Courier, monospace;
   font-smoothing: antialiased;
   margin : 8px;
+margin-top : 15px;
+margin-bottom: 17px;
   font-size: 15px;
   color: #ffffff;}
 
@@ -184,6 +186,7 @@ opacity: 0.8;
   font-smoothing: antialiased;
   font-style: italic;
   margin : auto;
+  margin-bottom: 18px;
   font-size: 30px;
   color: #ffffff;}
  #animate{
